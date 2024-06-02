@@ -9,3 +9,9 @@ def subtract(x, y):
     return z
 
 print(subtract(2, 4))
+
+def multiply(x, y):
+    z = x * y
+    return z
+
+print(multiply(2, 3))
