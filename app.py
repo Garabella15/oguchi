@@ -16,4 +16,3 @@ def multiply(x, y):
     z = x * y
     return z
 
-print(multiply(2, 3))
